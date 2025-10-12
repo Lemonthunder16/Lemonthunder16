@@ -49,14 +49,6 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 
 ---
 
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/output/github-contribution-grid-snake.svg" alt="Snake animation" width="650"/>
-</p>
-
-
----
 
 ## 📊 GitHub Stats & Top Languages
 
@@ -71,3 +63,5 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-ganesh-612053267/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lemonthunder16/)
+
+![snake gif](https://github.com/Lemonthunder16/Lemonthunder16/blob/output/github-snake-dark.svg)
