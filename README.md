@@ -52,14 +52,14 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/snake_animation.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/main/snake_animation.gif" width="500"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Srikar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Srikar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemonthunder16&show_icons=true&theme=radical)
 
 ---
 
