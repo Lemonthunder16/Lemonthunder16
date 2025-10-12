@@ -52,8 +52,9 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/main/github-contribution-grid-snake.svg" alt="Snake animation" width="650"/>
+  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/output/github-contribution-grid-snake.svg" alt="Snake animation" width="650"/>
 </p>
+
 
 ---
 
