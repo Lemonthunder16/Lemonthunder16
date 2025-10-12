@@ -52,7 +52,7 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/main/snake_animation.gif" width="500"/>
+  ![Snake animation](https://github.com/Lemonthunder16/Lemonthunder16/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
@@ -63,10 +63,15 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 
 ---
 
-## 📫 Connect with me
+## 🏆 Languages Used
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonthunder16&layout=compact&theme=radical)
 
 ---
 
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-ganesh-612053267/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lemonthunder16/)
+
+---
