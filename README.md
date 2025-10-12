@@ -1,26 +1,13 @@
-# 👨‍💻 Srikar Ganesh | Supreme Vibe Code Enthusiast & GPT Abuser
+# Hi there 👋, I'm Srikar Ganesh
 
 Welcome to my GitHub profile! 🚀  
-I'm passionate about coding, AI/ML, web development, and data analytics.
-
----
-
-## 🐍 Contribution Snake
-
-![Snake Animation](https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/main/snake.svg)
-
----
-
-## 📊 GitHub Stats & Top Languages
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemonthunder16&show_icons=true&theme=radical&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonthunder16&layout=compact&theme=radical&hide_title=true)
+I'm passionate about coding, AI/ML, web development, and data analytics.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming & CS Fundamentals:**  
+### Programming & CS Fundamentals
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +15,7 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FE7C00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
 
-**Web & Backend:**  
+### Web Development & Backend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
@@ -37,7 +24,7 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-9C27B0?style=for-the-badge)
 
-**AI & ML:**  
+### Artificial Intelligence & Machine Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-v5-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -50,7 +37,7 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge)
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence-Transformers-FF6F61?style=for-the-badge)
 
-**Data Science & Analytics:**  
+### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -62,11 +49,24 @@ I'm passionate about coding, AI/ML, web development, and data analytics.
 
 ---
 
-## 📫 Connect with Me
+## 🐍 Snake Animation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lemonthunder16/Lemonthunder16/main/github-contribution-grid-snake.svg" alt="Snake animation" width="650"/>
+</p>
 
 ---
 
-> "Code hard, vibe harder." 😎
+## 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemonthunder16&show_icons=true&theme=radical&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonthunder16&layout=compact&theme=radical&hide_title=true" width="48%"/>
+</p>
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-ganesh-612053267/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lemonthunder16/)
